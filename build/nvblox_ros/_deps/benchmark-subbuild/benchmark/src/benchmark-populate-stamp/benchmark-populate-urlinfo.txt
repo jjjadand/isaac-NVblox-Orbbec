@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://github.com/google/benchmark/archive/refs/tags/v1.8.2.tar.gz'
-tag='SHA256=2aab2980d0376137f969d92848fbb68216abb07633034534fc8c65cc4e7a0e93'
